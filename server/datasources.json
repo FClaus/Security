@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb+srv://fred_rov:fredrover97@cluster0-z12ib.azure.mongodb.net/test?retryWrites=true",
+    "database": "Names",
+    "password": "fredrover97",
+    "name": "db",
+    "user": "fred_rov",
+    "connector": "mongodb"
+  }
+}

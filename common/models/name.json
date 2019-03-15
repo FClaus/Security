@@ -1,0 +1,21 @@
+{
+  "name": "Name",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "FrontName": {
+      "type": "string",
+      "required": true
+    },
+    "BackName": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
